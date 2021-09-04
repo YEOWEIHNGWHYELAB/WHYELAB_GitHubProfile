@@ -13,4 +13,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YEOWEIHNGWHYELAB&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en&layout=compact" alt="YEOWEIHNGWHYELAB"/></p>
 
 ## About Me
-Hi there emo::ji("hi")! GitHub is the new Instagram/Facebook. I love to play around with Computers & Electronics. I am also very interested in the field of Artificial Intelligience. 
+Hi there 👋! GitHub is the new Instagram/Facebook. I love to play around with Computers & Electronics. I am also very interested in the field of Artificial Intelligience. 
