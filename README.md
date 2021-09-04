@@ -10,9 +10,7 @@
 ## Dashboard
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YEOWEIHNGWHYELAB&show_icons=true&theme=radical&title_color=3cb480&locale=en" alt="YEOWEIHNGWHYELAB" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YEOWEIHNGWHYELAB&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en&layout=compact" alt="YEOWEIHNGWHYELAB"/></p>
-
-<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YEOWEIHNGWHYELAB&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en&layout=compact" alt="YEOWEIHNGWHYELAB"/></p>
 
 ## About Me
 Hello World! GitHub is the new Instagram/Facebook. I love to play around with Computers & Electronics. I am also very interested in the field of Artificial Intelligience. 
