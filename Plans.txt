@@ -6,3 +6,4 @@ Github is my Instagram/Facebook.
 2) Showing GIF/Animations.
 3) Show status of maybe commits/contrib...
 4) Show frameworks and language icons.
+5) Interest and Experience. 
