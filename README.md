@@ -12,10 +12,10 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YEOWEIHNGWHYELAB&theme=blue-green)
 
-## View Counter
-<img src="https://komarev.com/ghpvc/?username=YEOWEIHNGWHYELAB">
-
 ## About Me
 Hi there 👋! GitHub is the new Instagram/Facebook. I am currently studying at NUS Computer Engineering. 
 I love to play around with Computers & Electronics. I am also very interested in the field of Artificial Intelligience and Software Engineering.
 I love to work on projects as a form of learning experience and a test for my programming literacy. I did most of these projects for fun. 
+
+## View Counter
+<img src="https://komarev.com/ghpvc/?username=YEOWEIHNGWHYELAB">
