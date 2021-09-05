@@ -12,7 +12,7 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YEOWEIHNGWHYELAB&theme=blue-green)
 
-## Profile View Counter
+## View Counter
 <img src="https://komarev.com/ghpvc/?username=YEOWEIHNGWHYELAB">
 
 ## About Me
