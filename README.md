@@ -10,8 +10,9 @@
 ## Dashboard
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YEOWEIHNGWHYELAB&show_icons=true&theme=radical&title_color=3cb480&locale=en" alt="YEOWEIHNGWHYELAB" /></p>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YEOWEIHNGWHYELAB&theme=blue-green)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YEOWEIHNGWHYELAB&theme=neon-palenight)](https://git.io/streak-stats)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YEOWEIHNGWHYELAB&theme=blue-green)
 
 ## About Me
 Hi there 👋! GitHub is the new Instagram/Facebook. I am currently studying at NUS Computer Engineering. 
