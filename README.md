@@ -12,7 +12,7 @@ I love to work on projects as a form of learning experience and a test for my pr
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YEOWEIHNGWHYELAB&theme=blue-green)
 
-## My Favorite Operating System 
+## My Favourite Operating System 
 ![Windows](https://github.com/YEOWEIHNGWHYELAB/WHYELAB_GitHubProfile/blob/main/OperatingSystemIcon/windows10.png)
 ![Ubuntu](https://github.com/YEOWEIHNGWHYELAB/WHYELAB_GitHubProfile/blob/main/OperatingSystemIcon/ubuntu.png)
 ![Raspbian](https://github.com/YEOWEIHNGWHYELAB/YEOWEIHNGWHYELAB/blob/main/OperatingSystemIcon/raspbian.png)
