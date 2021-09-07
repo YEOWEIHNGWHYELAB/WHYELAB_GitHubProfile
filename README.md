@@ -1,7 +1,7 @@
 # WHYELAB_GitHubProfile
 
 ## About Me
-Hi there 👋! GitHub is the new Instagram/Facebook. I am currently studying at NUS Computer Engineering. 
+Hi there 👋! I am currently studying at NUS Computer Engineering. 
 I love to play around with Computers & Electronics. I am also very interested in the field of Artificial Intelligience and Software Engineering.
 I love to work on projects as a form of learning experience and a test for my programming literacy. I did most of these projects for fun. 
 
