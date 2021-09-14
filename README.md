@@ -1,4 +1,6 @@
+<!--
 # WHYELAB_GitHubProfile
+-->
 
 ## About Me
 Hi there 👋! I am currently studying at NUS Computer Engineering. 
