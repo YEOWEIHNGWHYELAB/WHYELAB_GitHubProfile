@@ -4,7 +4,7 @@
 
 ## About Me
 Hi there 👋! I am currently studying at NUS Computer Engineering. 
-I love to play around with Computers & Electronics. I am also very interested in the field of Artificial Intelligence and Software Engineering.
+I love to play around with Computers & Electronics. I am also very interested in the field of Software Engineering, Web/Mobile Development and Artificial Intelligence.
 I love to work on projects as a form of learning experience and a test for my programming literacy. I believe the most important aspect of 
 a project is to have FUN!
 
